@@ -53,15 +53,13 @@ All these should be done in the terminal
 
     Create a superuser to access the Django admin panel:
 
-    ```bash
     python manage.py createsuperuser
-    ```
 
 ### 3. **Run the Development Server**:
 
-    ```bash
+    
     python manage.py runserver
-    ```
+    
 
 ## Frontend Setup
 
@@ -75,7 +73,7 @@ If using plain HTML/CSS/JavaScript, ensure your static files are correctly place
 
 ### 2. **Access the Application**:
 
-    - Backend: `http://127.0.0.1:8000/`
+    Backend: `http://127.0.0.1:8000`
 
 ## Usage
 
