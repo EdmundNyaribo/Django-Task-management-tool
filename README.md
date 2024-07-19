@@ -80,4 +80,6 @@ If using plain HTML/CSS/JavaScript, ensure your static files are correctly place
 - **Admin Panel**: Access the Django admin panel at `http://127.0.0.1:8000/admin/` using the superuser credentials.
 - **Task Management**: Use the web interface to create, edit, and delete tasks.
 
+### Application Outlook
+![Application interface](https://github.com/EdmundNyaribo/Django-Task-management-tool/blob/master/images/outlook.png)
 
