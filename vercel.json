@@ -1,13 +1,13 @@
 {
     "builds": [{
-        "src": "assessment/wsgi.py",
+        "src": "manage.py",
         "use": "@vercel/python",
         "config": { "maxlambdasize": "15mb", "runtime": "python3.9" }
     }],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "assessment/wsgi.py"
+            "dest": "manage.py"
         }
     ]
 }
